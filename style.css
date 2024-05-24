@@ -1,0 +1,19 @@
+h1{
+    border-bottom: 1px solid gray;
+    margin: 0;
+    padding-bottom: 20px;
+}
+ol{
+    border-right: 1px solid gray;
+    padding-left: 28px;
+    padding-top: 20px;
+    margin: 0
+}
+#grid{
+    display: grid;
+    grid-template-columns: 150px 1fr;
+}
+#article{
+    padding: 40px;
+    padding-top: 0;
+}
